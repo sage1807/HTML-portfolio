@@ -1,2 +1,2 @@
 # Trial
-This is for getting familiar with git and github.
+This is my first ever HTML project.
